@@ -7,4 +7,4 @@ Project we submitted in Hack-a-Throne
 To install dependencies:
 
 -./ npm i express dotenv jsonwebtoken mongoose bycryptjs
-\n-./ npm i nodemon
+<br>-./ npm i nodemon
