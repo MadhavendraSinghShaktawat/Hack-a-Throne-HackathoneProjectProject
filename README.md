@@ -11,6 +11,8 @@ To install dependencies:
 
 # Frontend Part
 
+-./ cd mybackend<br>
+-./ npm i
 
 <br>
 
