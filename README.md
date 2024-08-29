@@ -2,6 +2,10 @@
 
 Our platform helps teachers quickly create high-quality educational content using AI. With our tools, educators can easily generate customized lesson plans, quizzes, and summaries, saving time and allowing them to focus on teaching. This makes education more efficient and personalized, benefiting both teachers and students by providing tailored learning experiences that enhance understanding and engagement.
 
+# Technologies Used
+
+NodeJS, Express, MongoDB/Mongoose, ReactJS, MVC Design Pattern, Authentication, Authorization
+
 # Backend Part
 
 To install dependencies:
