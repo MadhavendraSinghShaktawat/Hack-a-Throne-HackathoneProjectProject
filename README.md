@@ -11,3 +11,10 @@ To install dependencies:
 
 # Frontend Part
 
+![WhatsApp Image 2024-08-29 at 6 06 21 AM](https://github.com/user-attachments/assets/b80461a4-7616-46cf-bf93-8ade43d9d260)
+
+![WhatsApp Image 2024-08-29 at 6 06 20 AM](https://github.com/user-attachments/assets/3c8faaed-c284-460d-b4a3-15a3e4970faa)
+
+![WhatsApp Image 2024-08-29 at 6 06 21 AM (2)](https://github.com/user-attachments/assets/dbda84a8-ecda-4153-8c06-1bf2dff8f7db)
+
+![WhatsApp Image 2024-08-29 at 6 06 21 AM (1)](https://github.com/user-attachments/assets/61d94430-1483-4126-a8e0-1ba6d6dce733)
