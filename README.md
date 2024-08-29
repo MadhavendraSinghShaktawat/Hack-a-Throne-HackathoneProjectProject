@@ -8,3 +8,6 @@ To install dependencies:
 
 -./ npm i express dotenv jsonwebtoken mongoose bycryptjs
 <br>-./ npm i nodemon
+
+# Frontend Part
+
